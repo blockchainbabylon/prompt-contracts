@@ -1,1 +1,1 @@
-metana-bootcamp
+bootcamp-test
